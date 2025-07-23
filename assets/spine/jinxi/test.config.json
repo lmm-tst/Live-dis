@@ -1,0 +1,52 @@
+{
+  "type": 9,
+  "controllers": {
+    "param_hit": {},
+    "param_loop": {},
+    "key_trigger": {},
+    "eye_blink": {
+      "min_interval": 500,
+      "max_interval": 6000
+    },
+    "lip_sync": {
+      "gain": 5.0
+    },
+    "mouse_tracking": {
+      "smooth_time": 0.15
+    },
+    "auto_breath": {},
+    "extra_motion": {},
+    "accelerometer": {},
+    "intimacy_system": {},
+    "slot_opacity": {},
+    "slot_color": {}
+  },
+  "motions": {
+    "idle": [
+      {
+        "file": "idle",
+        "wrap_mode": 1
+      }
+    ]
+  },
+  "options": {
+    "scale_factor": 0.04407039,
+    "position_x": 0.222090483,
+    "position_y": -3.940301,
+    "tex_type": 0,
+    "edge_padding": false,
+    "shader_type": 1
+  },
+  "skeleton": "c_jinxi_2.skel",
+  "atlases": [
+    {
+      "atlas": "c_jinxi_2.atlas",
+      "tex_names": [
+        "c_jinxi_2"
+      ],
+      "textures": [
+        "c_jinxi_2.png"
+      ]
+    }
+  ]
+}
