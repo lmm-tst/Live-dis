@@ -2,6 +2,8 @@
 
 quikly display for Wuthering Waves role spine.
 
+It can be used in wallpaper.
+
 ## How to use?
 
 1、start the server.
